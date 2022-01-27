@@ -1,0 +1,11 @@
+.description__paragraph {
+  margin-bottom: 30px;
+}
+
+.description__paragraph:last-of-type {
+  margin-bottom: 0;
+}
+
+.span-accent {
+  font-weight: 600;
+}

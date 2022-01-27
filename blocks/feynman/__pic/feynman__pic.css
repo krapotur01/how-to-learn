@@ -1,0 +1,7 @@
+.feynman__pic {
+  margin-top: -300px;
+  width: 867px;
+  height: 637px;
+  background-image: url(feinman.png);
+  z-index: 1;
+}

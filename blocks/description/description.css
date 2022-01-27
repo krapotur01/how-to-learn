@@ -1,0 +1,8 @@
+@import url(../two-columns/two-columns.css);
+@import url(./__paragraph/description__paragraph.css);
+
+
+.description {
+  margin: 100px auto 0;
+  width: 80%;
+}

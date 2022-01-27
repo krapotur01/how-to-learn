@@ -1,0 +1,11 @@
+.resources__logo {
+  justify-content:  center;
+  width: 270px;
+  height: 38px;
+  margin: 0 auto;
+}
+
+.resources__logo:hover {
+  transition: white;
+  opacity: 0.5;
+}
