@@ -1,0 +1,11 @@
+.video__iframe {
+  flex-direction: row;
+  margin-right: 20px;
+  border: 0;
+  height: 316px;
+  width: 515px;
+}
+
+.video__iframe:last-of-type {
+  margin-right: 0;
+}

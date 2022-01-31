@@ -4,6 +4,7 @@
   z-index: 1;
   background-image: url(triangle.svg);
   right: -210px;
+  top: 0;
   width: 734px;
   height: 733px;
   margin: 0;
